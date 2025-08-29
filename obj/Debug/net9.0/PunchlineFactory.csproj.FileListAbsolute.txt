@@ -1,0 +1,14 @@
+D:\Прога\C#\PunchlineFactory\bin\Debug\net9.0\PunchlineFactory.exe
+D:\Прога\C#\PunchlineFactory\bin\Debug\net9.0\PunchlineFactory.deps.json
+D:\Прога\C#\PunchlineFactory\bin\Debug\net9.0\PunchlineFactory.runtimeconfig.json
+D:\Прога\C#\PunchlineFactory\bin\Debug\net9.0\PunchlineFactory.dll
+D:\Прога\C#\PunchlineFactory\bin\Debug\net9.0\PunchlineFactory.pdb
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\PunchlineFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\PunchlineFactory.AssemblyInfoInputs.cache
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\PunchlineFactory.AssemblyInfo.cs
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\PunchlineFactory.csproj.CoreCompileInputs.cache
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\PunchlineFactory.dll
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\refint\PunchlineFactory.dll
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\PunchlineFactory.pdb
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\PunchlineFactory.genruntimeconfig.cache
+D:\Прога\C#\PunchlineFactory\obj\Debug\net9.0\ref\PunchlineFactory.dll
